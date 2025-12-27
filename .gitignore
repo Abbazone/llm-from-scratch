@@ -47,3 +47,4 @@ Thumbs.db
 *.db
 *.sqlite3
 .cache/
+/ch02/.ipynb_checkpoints/
